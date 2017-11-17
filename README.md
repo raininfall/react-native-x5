@@ -3,7 +3,7 @@
 
 ## Getting started
 
-`$ npm install react-native-x5 --save`
+`$ npm install raininfall/react-native-x5 --save`
 
 ### Mostly automatic installation
 
